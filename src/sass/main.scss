@@ -225,7 +225,7 @@ main {
 
 	.adventure-img {
 		position: relative;
-		background-image: url('/dist/img/girlforestsmall.jpg');
+		background-image: url('src/img/girlforestsmall.jpg');
 		height: 25rem;
 		margin-top: 5rem;
 		background-size: cover;
@@ -783,7 +783,7 @@ main {
 	}
 
 	main .aboutus .wrapper .lake {
-		content: url('dist/img/lakelarge.jpg');
+		content: url('src/img/lakelarge.jpg');
 	}
 
 	.offers-details {
@@ -827,14 +827,14 @@ main {
 
 	.header {
 		.background-image {
-			background-image: url('dist/img/junglelarge.jpg');
+			background-image: url('src/img/junglelarge.jpg');
 			filter: saturate(150%);
 		}
 	}
 
 	main {
 		.adventure-img {
-			background-image: url('dist/img/girlforestlarge.jpg');
+			background-image: url('src/img/girlforestlarge.jpg');
 		}
 	}
 }

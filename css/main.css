@@ -70,7 +70,7 @@ header .background-image {
   position: relative;
   margin-top: 12rem;
   height: 50rem;
-  background-image: url("dist/img/junglelarge.jpg");
+  background-image: url("src/img/junglelarge.jpg");
   background-size: cover;
   background-position: center;
   z-index: 1;
